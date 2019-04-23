@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<?xml-stylesheet href="goods.xsl" type="text/xsl"?>
+
+<tvs>
+    <tv ID="German">
+        <type ID="LG">
+            <colour>black</colour>
+            <model>805-a</model>
+            <price>1000</price>
+        </type>
+        <type ID="Sony">
+            <colour>grey</colour>
+            <model>l-300</model>
+            <price>2000</price>
+        </type>
+        <type ID="Mi">
+            <colour>grey</colour>
+            <model>ai9</model>
+            <price>1250</price>
+        </type>
+    </tv>
+</tvs>

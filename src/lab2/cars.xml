@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<?xml-stylesheet href="goods.xsl" type="text/xsl"?>
+
+<cars>
+    <car ID="sedan">
+        <type ID="BMW">
+            <colour>blue</colour>
+            <model>7-series</model>
+            <price>100000</price>
+        </type>
+        <type ID="Kia">
+            <colour>orange</colour>
+            <model>Rio</model>
+            <price>13000</price>
+        </type>
+        <type ID="Hyundai">
+            <colour>grey</colour>
+            <model>Solaris</model>
+            <price>17000</price>
+        </type>
+        <type ID="Mercedes-Benz">
+            <colour>black</colour>
+            <model>S-Class</model>
+            <price>100000</price>
+        </type>
+        <type ID="Audi">
+            <colour>white</colour>
+            <model>A8</model>
+            <price>99900</price>
+        </type>
+        <type ID="Ford">
+            <colour>red</colour>
+            <model>Mondeo</model>
+            <price>19990</price>
+        </type>
+    </car>
+</cars>
