@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<?xml-stylesheet href="goods.xsl" type="text/xsl"?>
+
+<books>
+    <section ID="Detectives">
+        <book ID="Sherlock Holmes">
+            <code>100001</code>
+            <author>Arthur Conan Doyle</author>
+            <price>40</price>
+        </book>
+        <book ID="A Study in Scarlete">
+            <code>100002</code>
+            <author>Arthur Conan Doyle</author>
+            <price>150</price>
+        </book>
+    </section>
+    <section ID="Fiction">
+        <book ID="1984">
+            <code>100003</code>
+            <author>George Orwell</author>
+            <price>170</price>
+        </book>
+        <book ID="The Harry Potter">
+            <code>100004</code>
+            <author>J.R.R. Tolkien</author>
+            <price>185</price>
+        </book>
+        <book ID="The Harry Potter1">
+            <code>100004</code>
+            <author>J.R.R. Tolkien1</author>
+            <price>185</price>
+        </book>
+    </section>
+</books>
